@@ -1,7 +1,6 @@
-# Hi 👋, I'm Amulya
-### 🚀 IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
+# Hi 👋, I'm Amulya  
+### IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
 
-👩‍💻 B.Tech (IT) Student  
 ⚡ Turning ideas into smart digital solutions  
 🔭 Currently working on real-time projects using **Python**, **React**, and **AI**  
 💬 Always learning, building, and growing
@@ -47,9 +46,9 @@
 
 ### 🏅 HackerRank Badges
 
-[![HackerRank Profile](https://www.hackerrank.com/badges/profile_image/kokkulaamulya.svg)](https://www.hackerrank.com/kokkulaamulya)  
-[![Gold Badge - Python](https://img.shields.io/badge/HackerRank-Python-brightgreen)](https://www.hackerrank.com/kokkulaamulya)  
-[![Silver Badge - Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-yellow)](https://www.hackerrank.com/kokkulaamulya)
+[![HackerRank Profile](https://www.hackerrank.com/badges/profile_image/amulyaakokkula.svg)](https://www.hackerrank.com/profile/amulyaakokkula)  
+[![Gold Badge - Python](https://img.shields.io/badge/HackerRank-Python-brightgreen)](https://www.hackerrank.com/profile/amulyaakokkula)  
+[![Silver Badge - Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-yellow)](https://www.hackerrank.com/profile/amulyaakokkula)
 
 ---
 
@@ -58,6 +57,6 @@
 <a href="https://www.linkedin.com/in/kokkula-amulya-8176382a5/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="mailto:amulyaakokkula@gmail.com.com">
+<a href="mailto:amulyaakokkula@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
