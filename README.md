@@ -1,6 +1,7 @@
 # Hi 👋, I'm Amulya
 ### 🚀 IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
- 
+
+👩‍💻 B.Tech (IT) Student  
 ⚡ Turning ideas into smart digital solutions  
 🔭 Currently working on real-time projects using **Python**, **React**, and **AI**  
 💬 Always learning, building, and growing
@@ -23,6 +24,14 @@
 
 ---
 
+### 🔭 Projects
+
+🔗 [Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal) *(JSX + MySQL-based Full Stack Project)*  
+🔐 AI-Driven Cyber Threat Detection and Profiling *(AI + NLP + Security focused project)*  
+📧 [Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier) *(Machine Learning based spam filter)*
+
+---
+
 ### 🏆 Achievements & Certifications
 
 - 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
@@ -31,11 +40,16 @@
 - 🎓 Java Foundation Certification - by Infosys  
 - 🥇 Gold Badge in Python – HackerRank  
 - 🥈 Silver Badge in Problem Solving – HackerRank  
-- 🎓 Introduction and Applications on Generative AI - by IBM  
-- 🎓 NoSQL Certification - by Infosys Springboard  
+- 🎓 Introduction and Applications on Generative AI - by IBM   
 - 🏅 Certified with C1 - English from Cambridge  
-- 🏅 Certified Professional Certification – by Oracle  
-- 📃 Completed TATA Crucible Campus Quiz – Round 1  
+
+---
+
+### 🏅 HackerRank Badges
+
+[![HackerRank Profile](https://www.hackerrank.com/badges/profile_image/kokkulaamulya.svg)](https://www.hackerrank.com/kokkulaamulya)  
+[![Gold Badge - Python](https://img.shields.io/badge/HackerRank-Python-brightgreen)](https://www.hackerrank.com/kokkulaamulya)  
+[![Silver Badge - Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-yellow)](https://www.hackerrank.com/kokkulaamulya)
 
 ---
 
@@ -44,6 +58,6 @@
 <a href="https://www.linkedin.com/in/kokkula-amulya-8176382a5/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="mailto:amulyaakokkula@gmail.com">
+<a href="mailto:amulyaakokkula@gmail.com.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
