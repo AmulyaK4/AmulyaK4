@@ -1,7 +1,6 @@
 # Hi 👋, I'm Amulya
-### IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
-
-👩‍💻 B.Tech (IT) Student  
+### 🚀 IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
+ 
 ⚡ Turning ideas into smart digital solutions  
 🔭 Currently working on real-time projects using **Python**, **React**, and **AI**  
 💬 Always learning, building, and growing
@@ -24,21 +23,19 @@
 
 ---
 
-### 🔭 Projects
+### 🏆 Achievements & Certifications
 
-🔗 [Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal) *(JSX + MySQL-based Full Stack Project)*  
-🔐 AI-Driven Cyber Threat Detection and Profiling *(AI + NLP + Security focused project)*  
-📊 Python DSA Practice Repository  
-📧 [Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier) *(Machine Learning based spam filter)*
-
----
-
-### 🏆 Achievements
-
-🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
-💼 Infosys Springboard Intern – 2024  
-📃 Completed TATA Crucible Campus Quiz  
-👩‍💻 Multiple hands-on projects using modern tech stack
+- 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
+- 💼 Infosys Springboard Intern – 2024  
+- 🎓 Crash Course in Python - by Google  
+- 🎓 Java Foundation Certification - by Infosys  
+- 🥇 Gold Badge in Python – HackerRank  
+- 🥈 Silver Badge in Problem Solving – HackerRank  
+- 🎓 Introduction and Applications on Generative AI - by IBM  
+- 🎓 NoSQL Certification - by Infosys Springboard  
+- 🏅 Certified with C1 - English from Cambridge  
+- 🏅 Certified Professional Certification – by Oracle  
+- 📃 Completed TATA Crucible Campus Quiz – Round 1  
 
 ---
 
