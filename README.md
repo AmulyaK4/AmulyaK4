@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amulya  
+# Hi, I'm Amulya  
 ### IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
 
 ⚡ Turning ideas into smart digital solutions  
@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me
-
+💬 just a girl in tech, building her way through the bugs & breakthroughs
 🎓 B.Tech in Information Technology  
 👩‍💻 Full-Stack Developer  
 🧠 Interested in AI, NLP, and Cybersecurity  
@@ -18,7 +18,7 @@
 ---
 
 ### 💻 Tech Stack
-
+🧃 tools i vibe with (and break less often now)
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
@@ -38,7 +38,7 @@
 ---
 
 ### 🔭 Projects
-
+🚧 things i've built instead of just bookmarking ideas.
 🔗 [Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal) *(JSX + MySQL-based Full Stack Project)*  
 🔐 AI-Driven Cyber Threat Detection and Profiling *(AI + NLP + Security focused project)*  
 📧 [Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier) *(Machine Learning based spam filter)*
@@ -46,7 +46,7 @@
 ---
 
 ### 🏆 Achievements & Certifications
-
+  📍 proof that the hustle and the vibe coexist
 - 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
 - 💼 Infosys Springboard Intern – 2024  
 - 🎓 Crash Course in Python - by Google  
@@ -67,7 +67,7 @@
 ---
 
 ### 📫 Let’s Connect!
-
+📲 let's link up — collab, chat, or just geek out over cool code
 <a href="https://www.linkedin.com/in/kokkula-amulya-8176382a5/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>    
