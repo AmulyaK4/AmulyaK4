@@ -1,5 +1,5 @@
- # Hi, I'm Amulya  
-### IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
+# Hi, I'm Amulya  
+### IT Student | 💻 Full-Stack Developer |  Enthusiastic Developer with a Passion for Python & Web Technologies
 
 ⚡ Turning ideas into smart digital solutions  
 🔭 Currently working on real-time projects using **Python**, **React**, and **AI**  
@@ -7,7 +7,7 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 💬 just a girl in tech, building her way through the bugs & breakthroughs
 
 🎓 B.Tech in Information Technology  
@@ -40,6 +40,18 @@
 
 ---
 
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmulyaK4&theme=default)](https://git.io/streak-stats)
+
+---
+
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🔭 Projects
 
 🚧 things i've built instead of just bookmarking ideas.
@@ -52,8 +64,8 @@
 
 ### 🏆 Achievements & Certifications
 
-  📍 proof that the hustle and the vibe coexist
-  
+📍 proof that the hustle and the vibe coexist
+
 - 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
 - 💼 Infosys Springboard Intern – 2024  
 - 🎓 Crash Course in Python - by Google  
@@ -83,3 +95,4 @@
 <a href="https://medium.com/@amulyaakokkula">
   <img src="https://img.shields.io/badge/-Medium-00ab6c?style=flat-square&logo=medium&logoColor=white"/>
 </a>
+
