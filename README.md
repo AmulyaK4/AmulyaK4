@@ -1,5 +1,5 @@
 # Hi, I'm Amulya  
-### IT Student | Full-Stack Developer | Passionate about Python & Web Technologies
+###👩‍🎓 IT Student | 👩‍💻 Full-Stack Developer | 🧩 Innovating with Python & Java
 
 ---
 
@@ -29,14 +29,14 @@ The tech behind the magic
 
 ---
 
-### 📊 GitHub Streak & Language Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=dark&background=def2e8&ring=4caf50&fire=388e3c&currStreakLabel=388e3c&sideNums=2e7d32&sideLabels=33691e&dates=33691e&currStreakNum=4caf50" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=def2e8&title_color=2e7d32&text_color=33691e" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" />
 </p>
 
 ---
@@ -53,18 +53,19 @@ The tech behind the magic
 
 - Oracle Cloud Infrastructure Generative AI Certified – 2024  
 - Infosys Java Foundation Certificate    
-- Crash Course in Python – Google   
+- Crash Course in Python – Google    
 - C1 English Certification – Cambridge  
 - Gold Badge – Python (HackerRank)  
 - Silver Badge – Problem Solving (HackerRank)  
 
 ---
 
-### 🔗 Contact
+### 🔗 Connect & Code
 
 - [LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)  
 - [Medium](https://medium.com/@amulyaakokkula)  
 - [HackerRank](https://www.hackerrank.com/amulyaakokkula)  
+ 
 
 
 
