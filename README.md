@@ -12,7 +12,7 @@ Let’s just say bugs don’t scare me — boring code does.
 ---
 
 ### 💻 Tech Stack  
-The tech behind the magic 🪄
+The tech behind the magic 🪄  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
@@ -46,6 +46,7 @@ The tech behind the magic 🪄
 - **[Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal)** – Full Stack Project (React + MySQL)  
 - **AI-Driven Cyber Threat Detection and Profiling** – Focused on NLP and AI  
 - **[Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier)** – Built using Machine Learning  
+- **[Crime Rate Prediction](https://github.com/AmulyaK4/Crime-Rate-Prediction)** – Predicting crime risk levels using Logistic Regression  
 
 ---
 
@@ -65,6 +66,7 @@ The tech behind the magic 🪄
 - [LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)  
 - [Medium](https://medium.com/@amulyaakokkula)  
 - [HackerRank](https://www.hackerrank.com/amulyaakokkula)  
+
 
 
  
