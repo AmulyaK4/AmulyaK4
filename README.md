@@ -12,7 +12,7 @@ Let’s just say bugs don’t scare me — boring code does.
 ---
 
 ### 💻 Tech Stack  
-The tech behind the magic 🪄  
+The tech behind the magic 🪄
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
@@ -29,14 +29,15 @@ The tech behind the magic 🪄
 
 ---
 
-### 📊 GitHub Stats  
-<div style="display:flex; gap:20px; flex-wrap: wrap;">
+### 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" style="max-width: 45%;"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" style="max-width: 45%;"/>
-  
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" />
+</p>
 
 ---
 
@@ -64,6 +65,7 @@ The tech behind the magic 🪄
 - [LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)  
 - [Medium](https://medium.com/@amulyaakokkula)  
 - [HackerRank](https://www.hackerrank.com/amulyaakokkula)  
+
 
  
 
