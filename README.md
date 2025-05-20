@@ -11,8 +11,8 @@ Let’s just say bugs don’t scare me — boring code does.
 
 ---
 
-### 🛠💻 Tech Stack  
-The tech behind the magic  
+### 💻 Tech Stack  
+The tech behind the magic 🪄
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
