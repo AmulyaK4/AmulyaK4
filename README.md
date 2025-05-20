@@ -1,27 +1,18 @@
 # Hi, I'm Amulya  
-### IT Student | 💻 Full-Stack Developer | 💼 Enthusiastic Developer with a Passion for Python & Web Technologies
-
-⚡ Turning ideas into smart digital solutions  
-🔭 Currently working on real-time projects using **Python**, **React**, and **AI**  
-💬 Always learning, building, and growing
+### IT Student | Full-Stack Developer | Passionate about Python & Web Technologies
 
 ---
 
-### 💡 About Me
-💬 just a girl in tech, building her way through the bugs & breakthroughs
+### 🖥️ About Me
 
-🎓 B.Tech in Information Technology  
-👩‍💻 Full-Stack Developer  
-🧠 Interested in AI, NLP, and Cybersecurity  
-🏆 Oracle Cloud Certified (OCI Generative AI – 2024)  
-📚 Self-learner with a passion for building real-world solutions  
+I’m an Information Technology student passionate about full-stack development, cloud tech, and building AI-powered solutions that actually solve real-world problems.
+Let’s just say bugs don’t scare me — boring code does.
+ 
 
 ---
 
-### 💻 Tech Stack
-
-🧃 tools i vibe with (and break less often now)
-
+### 🛠💻 Tech Stack
+ The tech behind the magic
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
@@ -32,44 +23,28 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Operating%20Systems-1f425f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Computer%20Networks-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-3e8e41?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔭 Projects
+### 📁 Projects
 
-🚧 things i've built instead of just bookmarking ideas.
-
-🔗 [Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal) *(JSX + MySQL-based Full Stack Project)*  
-🔐 AI-Driven Cyber Threat Detection and Profiling *(AI + NLP + Security focused project)*  
-📧 [Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier) *(Machine Learning based spam filter)*
+- **[Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal)** – Full Stack Project (React + MySQL)  
+- **AI-Driven Cyber Threat Detection and Profiling** – Focused on NLP and AI  
+- **[Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier)** – Built using Machine Learning  
 
 ---
 
-### 🏆 Achievements & Certifications
+### 📜 Certifications & Achievements
 
-📍 proof that the hustle and the vibe coexist
-
-- 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
-- 💼 Infosys Springboard Intern – 2024  
-- 🎓 Crash Course in Python - by Google  
-- 🎓 Java Foundation Certification - by Infosys  
-- 🥇 Gold Badge in Python – HackerRank  
-- 🥈 Silver Badge in Problem Solving – HackerRank  
-- 🎓 Introduction and Applications on Generative AI - by IBM   
-- 🏅 Certified with C1 - English from Cambridge  
-
----
-
-### 🏅 HackerRank Badges
-
-[![HackerRank Profile](https://www.hackerrank.com/badges/profile_image/amulyaakokkula.svg)](https://www.hackerrank.com/profile/amulyaakokkula)  
-[![Gold Badge - Python](https://img.shields.io/badge/HackerRank-Python-brightgreen)](https://www.hackerrank.com/profile/amulyaakokkula)  
-[![Silver Badge - Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-yellow)](https://www.hackerrank.com/profile/amulyaakokkula)
+- Oracle Cloud Infrastructure Generative AI Certified – 2024  
+- Infosys Java Foundation Certificate  
+- Infosys Springboard Internship  
+- Crash Course in Python – Google  
+- Introduction to Generative AI – IBM  
+- C1 English Certification – Cambridge  
+- Gold Badge – Python (HackerRank)  
+- Silver Badge – Problem Solving (HackerRank)  
 
 ---
 
@@ -85,16 +60,12 @@
 
 ---
 
-### 📫 Let’s Connect!
+### 🔗 Contact
 
-📲 let's link up — collab, chat, or just geek out over cool code
+- [LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)
+- [Medium](https://medium.com/@amulyaakokkula)
+- [HackerRank](https://www.hackerrank.com/amulyaakokkula)
 
-<a href="https://www.linkedin.com/in/kokkula-amulya-8176382a5/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>    
-<a href="https://medium.com/@amulyaakokkula">
-  <img src="https://img.shields.io/badge/-Medium-00ab6c?style=flat-square&logo=medium&logoColor=white"/>
-</a>
 
 
 
