@@ -1,5 +1,5 @@
 # Hi, I'm Amulya  
-###👩‍🎓 IT Student | 👩‍💻 Full-Stack Developer | 🧩 Innovating with Python & Java
+👩‍🎓 IT Student | 👩‍💻 Full-Stack Developer | 🧩 Innovating with Python & Java
 
 ---
 
