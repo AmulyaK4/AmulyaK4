@@ -52,8 +52,8 @@
 
 ### 🏆 Achievements & Certifications
 
-  📍 proof that the hustle and the vibe coexist
-  
+📍 proof that the hustle and the vibe coexist
+
 - 🧠 Oracle Cloud Infrastructure Generative AI Certified – 2024  
 - 💼 Infosys Springboard Intern – 2024  
 - 🎓 Crash Course in Python - by Google  
@@ -76,11 +76,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=A8D5BA&ring=006400&fire=006400&currStreakLabel=006400" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideNums=ccd6f6&sideLabels=8892b0&dates=8892b0&currStreakNum=64ffda" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=A8D5BA&title_color=006400&text_color=000000" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top Languages"/>
 </p>
 
 ---
@@ -95,5 +95,6 @@
 <a href="https://medium.com/@amulyaakokkula">
   <img src="https://img.shields.io/badge/-Medium-00ab6c?style=flat-square&logo=medium&logoColor=white"/>
 </a>
+
 
 
