@@ -29,18 +29,6 @@ The tech behind the magic 🪄
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" />
-</p>
-
----
-
 ### 📁 Projects
 
 - **[Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal)** – Full Stack Project (React + MySQL)  
