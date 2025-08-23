@@ -17,14 +17,18 @@ The tech behind the magic 🪄
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-REST%20API-02569B?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange&style=for-the-badge"/>
 </p>
 
 ---
