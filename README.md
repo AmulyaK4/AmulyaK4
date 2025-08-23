@@ -41,17 +41,12 @@ The tech behind the magic 🪄
 - **[Crime Rate Prediction](https://github.com/AmulyaK4/Crime-Rate-Prediction)** – Predicting crime risk levels using Logistic Regression  
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" height="180px"/>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" />
-</p>
-
----
 
 ### 📜 Certifications & Achievements
 
