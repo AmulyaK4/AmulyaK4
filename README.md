@@ -1,70 +1,57 @@
-# Hi, I'm Amulya  
-👩‍🎓 IT Student | 👩‍💻 Full-Stack Developer | 🧩 Innovating with Python & Java
+# Kokkula Amulya
+
+Python developer focused on AI/ML and data analytics — I build things that work and ship them.
+
+Currently working on LLM-powered applications, semantic search pipelines, and business dashboards. My projects are deployed and publicly accessible, not just sitting in notebooks.
 
 ---
 
-### 🖥️ About Me
+## What I Build
 
-I’m an Information Technology student passionate about full-stack development, cloud tech, and building AI-powered solutions that actually solve real-world problems.  
-
-Let’s just say bugs don’t scare me — boring code does.
-
----
-
-### 💻 Tech Stack  
-The tech behind the magic 🪄  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-REST%20API-02569B?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange&style=for-the-badge"/>
-</p>
+**AI/ML** — LLM integration, RAG pipelines, prompt engineering, vector search with FAISS, semantic similarity  
+**Data Analytics** — end-to-end pipelines with Pandas, interactive dashboards in Power BI, DAX measures  
+**Backend** — REST APIs in Python, database design and optimization in MySQL and PostgreSQL  
 
 ---
 
-### 📁 Projects
+## Tech
 
-- **[Online Job Portal Using AI](https://github.com/AmulyaK4/online-job-portal)** – Full Stack Project (React + MySQL)  
-- **AI-Driven Cyber Threat Detection and Profiling** – Focused on NLP and AI  
-- **[Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier)** – Built using Machine Learning  
-- **[Crime Rate Prediction](https://github.com/AmulyaK4/Crime-Rate-Prediction)** – Predicting crime risk levels using Logistic Regression  
-
----
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmulyaK4&theme=default&background=0c1a2f&ring=51c7b7&fire=3ba99c&currStreakLabel=51c7b7&sideNums=bed6db&sideLabels=7da0a3&dates=7da0a3&currStreakNum=51c7b7" alt="GitHub Streak Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaK4&layout=compact&bg_color=0c1a2f&title_color=51c7b7&text_color=bed6db" alt="Top Languages" height="180px"/>
-</p>
-
-### 📜 Certifications & Achievements
-
-- Oracle Cloud Infrastructure Generative AI Certified – 2024  
-- Infosys Java Foundation Certificate    
-- Crash Course in Python – Google    
-- C1 English Certification – Cambridge  
-- Gold Badge – Python (HackerRank)  
-- Silver Badge – Problem Solving (HackerRank)  
+**Languages** — Python · SQL · JavaScript · Java · C  
+**AI/ML** — LangChain · Groq · FAISS · sentence-transformers · scikit-learn  
+**Data & Viz** — Pandas · NumPy · Power BI · Metabase · DAX  
+**Tools** — Docker · Git · Streamlit · Postman · Hugging Face Spaces  
+**Databases** — MySQL · PostgreSQL  
 
 ---
 
-### 🔗 Connect & Code
+## Projects
 
-- [LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)  
-- [Medium](https://medium.com/@amulyaakokkula)  
-- [HackerRank](https://www.hackerrank.com/amulyaakokkula)  
+**[HireMatch AI](https://amulya8-hirematch-ai.hf.space)** — AI resume screener that semantically matches resumes to job descriptions using LangChain, Groq (Llama 3.3 70B), FAISS, and sentence-transformers. Deployed live on Hugging Face Spaces.
+`Python` `LangChain` `Groq` `FAISS` `Streamlit` `Docker`
 
+**[Zomato Restaurant Analytics]** — Interactive Power BI dashboard built on 9,000+ restaurant records. Surfaces cuisine trends, price-rating correlation, and underserved areas by city.
+`Python` `Pandas` `Power BI` `DAX` `SQL`
+
+**[Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier)** — ML model to classify spam emails.
+`Python` `scikit-learn`
+
+**[Crime Rate Prediction](https://github.com/AmulyaK4/Crime-Rate-Prediction)** — Predicts crime risk levels using Logistic Regression.
+`Python` `scikit-learn`
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure — Generative AI Certified Professional (2024)
+- Google — Crash Course in Python
+- Cambridge — C1 English
+- HackerRank — Gold Badge Python · Silver Badge Problem Solving
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/) · [Medium](https://medium.com/@amulyaakokkula) · [HackerRank](https://www.hackerrank.com/amulyaakokkula)
 
 
  
