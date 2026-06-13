@@ -94,19 +94,20 @@ Predicts crime risk levels by location using Logistic Regression.
 
 ## Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Generative AI Certified Professional | Oracle Cloud Infrastructure | 2024 |
-| Crash Course in Python | Google | — |
-| C1 English | Cambridge | — |
-| Gold Badge — Python | HackerRank | — |
-| Silver Badge — Problem Solving | HackerRank | — |
+| Certification | Issuer |
+|---|---|
+| Generative AI Certified Professional | Oracle Cloud Infrastructure |
+| ITIL Foundation | Coursera |
+| Crash Course in Python | Google |
+| C1 English | Cambridge |
+| Gold Badge — Python | HackerRank |
+| Silver Badge — Problem Solving | HackerRank |
 
 ---
 
 ## Achievements
 
-- 🏆 Selected from **15,000+ applicants** for Hack with Hyd at Microsoft Hyderabad
+- 🏆 Selected from **29,443 applicants** for Hack with Hyd at Microsoft Hyderabad
 - 🇮🇳 Participated in **Smart India Hackathon (SIH)** — proposed sustainability platform for plastic waste management
 
 ---
