@@ -1,57 +1,119 @@
+<div align="center">
+
 # Kokkula Amulya
+### Python · AI/ML · Data Analytics
 
-Python developer focused on AI/ML and data analytics — I build things that work and ship them.
+*I build AI applications and data pipelines — and ship them live.*
 
-Currently working on LLM-powered applications, semantic search pipelines, and business dashboards. My projects are deployed and publicly accessible, not just sitting in notebooks.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/amulya8)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@amulyaakokkula)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amulyaakokkula)
 
----
-
-## What I Build
-
-**AI/ML** — LLM integration, RAG pipelines, prompt engineering, vector search with FAISS, semantic similarity  
-**Data Analytics** — end-to-end pipelines with Pandas, interactive dashboards in Power BI, DAX measures  
-**Backend** — REST APIs in Python, database design and optimization in MySQL and PostgreSQL  
+</div>
 
 ---
 
-## Tech
+## About
 
-**Languages** — Python · SQL · JavaScript · Java · C  
-**AI/ML** — LangChain · Groq · FAISS · sentence-transformers · scikit-learn  
-**Data & Viz** — Pandas · NumPy · Power BI · Metabase · DAX  
-**Tools** — Docker · Git · Streamlit · Postman · Hugging Face Spaces  
-**Databases** — MySQL · PostgreSQL  
+Python developer focused on AI/ML engineering and data analytics. I work across the full stack — from LLM pipelines and vector search to business dashboards and REST APIs. My projects are deployed and publicly accessible, not just sitting in notebooks.
+
+Currently building in the GenAI and data space. Open to AI/ML, Data Analyst, and Python Developer roles.
+
+---
+
+## Tech Stack
+
+```text
+AI/ML        LangChain · Groq · FAISS · sentence-transformers · scikit-learn · Prompt Engineering
+Data         Pandas · NumPy · Power BI · DAX · Metabase · PostgreSQL · MySQL
+Backend      Python · REST APIs · Docker · Streamlit · FastAPI
+Languages    Python · SQL · JavaScript · Java · C
+Tools        Git · Postman · VS Code · Hugging Face Spaces
+```
 
 ---
 
 ## Projects
 
-**[HireMatch AI](https://amulya8-hirematch-ai.hf.space)** — AI resume screener that semantically matches resumes to job descriptions using LangChain, Groq (Llama 3.3 70B), FAISS, and sentence-transformers. Deployed live on Hugging Face Spaces.
-`Python` `LangChain` `Groq` `FAISS` `Streamlit` `Docker`
+<table>
+<tr>
+<td width="50%">
 
-**[Zomato Restaurant Analytics]** — Interactive Power BI dashboard built on 9,000+ restaurant records. Surfaces cuisine trends, price-rating correlation, and underserved areas by city.
-`Python` `Pandas` `Power BI` `DAX` `SQL`
+### 🎯 HireMatch AI
+AI resume screener that semantically matches resumes to job descriptions — using LangChain, Groq (Llama 3.3 70B), FAISS vector search, and sentence-transformers. Deployed live.
 
-**[Email Spam Classifier](https://github.com/AmulyaK4/email-spam-classifier)** — ML model to classify spam emails.
-`Python` `scikit-learn`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**[Crime Rate Prediction](https://github.com/AmulyaK4/Crime-Rate-Prediction)** — Predicts crime risk levels using Logistic Regression.
-`Python` `scikit-learn`
+[🔗 Live Demo](https://amulya8-hirematch-ai.hf.space) · [GitHub](https://github.com/AmulyaK4/hirematch-ai)
+
+</td>
+<td width="50%">
+
+### 📊 Zomato Analytics Dashboard
+Interactive Power BI dashboard on 9,000+ restaurant records — cuisine trends by city, price-rating correlation, and underserved area insights via DAX measures.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+[GitHub](https://github.com/AmulyaK4/zomato-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📧 Email Spam Classifier
+ML model to classify spam emails using NLP and scikit-learn.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[GitHub](https://github.com/AmulyaK4/email-spam-classifier)
+
+</td>
+<td width="50%">
+
+### 🔍 Crime Rate Prediction
+Predicts crime risk levels by location using Logistic Regression.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[GitHub](https://github.com/AmulyaK4/Crime-Rate-Prediction)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Certifications
 
-- Oracle Cloud Infrastructure — Generative AI Certified Professional (2024)
-- Google — Crash Course in Python
-- Cambridge — C1 English
-- HackerRank — Gold Badge Python · Silver Badge Problem Solving
+| Certification | Issuer | Year |
+|---|---|---|
+| Generative AI Certified Professional | Oracle Cloud Infrastructure | 2024 |
+| Crash Course in Python | Google | — |
+| C1 English | Cambridge | — |
+| Gold Badge — Python | HackerRank | — |
+| Silver Badge — Problem Solving | HackerRank | — |
 
 ---
 
-## Connect
+## Achievements
 
-[LinkedIn](https://www.linkedin.com/in/kokkula-amulya-8176382a5/) · [Medium](https://medium.com/@amulyaakokkula) · [HackerRank](https://www.hackerrank.com/amulyaakokkula)
+- 🏆 Selected from **15,000+ applicants** for Hack with Hyd at Microsoft Hyderabad
+- 🇮🇳 Participated in **Smart India Hackathon (SIH)** — proposed sustainability platform for plastic waste management
+
+---
+
+<div align="center">
+<i>Open to AI/ML, Data Analyst, and Python Developer roles · Based in Hyderabad</i>
+</div>
 
 
  
