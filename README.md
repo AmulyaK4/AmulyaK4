@@ -17,7 +17,7 @@
 
 ### 🧬 About Me
 
-IT grad from Hyderabad who'd rather ship a working AI product than polish another notebook nobody runs. I work across the LLM stack end to end — RAG pipelines, vector search, backend APIs — and I don't stop at "it works on my machine." Every project below is **live and clickable**, not a screenshot. If it's broken, that's on production, and I've probably already found the bug before you did.
+IT grad from Hyderabad who'd rather ship a working AI product than polish another notebook nobody runs. I work across the LLM stack end to end - RAG pipelines, vector search, backend APIs — and I don't stop at "it works on my machine." Every project below is **live and clickable**, not a screenshot. If it's broken, that's on production, and I've probably already found the bug before you did.
 
 Fresh off an SDE internship shipping real dashboards on real data — now hunting for the next thing to build (or break, professionally, in a test suite).
 
@@ -88,7 +88,7 @@ tools:      [Git, VS Code, Hugging Face Spaces]
 | 🗣️ | Cambridge English C1 Advanced |
 
 - **29,443+ applicants** applied to Hack with Hyd (Microsoft Hackathon 2024) — I made the cut
-- **Finalist**, Hack with Hyd 2025 — held at the Microsoft office, run by Jack2Skill
+- **Finalist**, Hack with Hyd 2025 — held at the Microsoft office, run by Hack2Skill
 - Smart India Hackathon (SIH) — pitched a sustainability platform for plastic waste management
 
 ---
