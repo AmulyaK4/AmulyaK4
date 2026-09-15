@@ -1,9 +1,15 @@
 <div align="center">
 
-# Hi, I'm Amulya 👋
-### I build AI systems that ship — not notebooks that sit
+```
+$ whoami
+Amulya — IT grad who ships AI systems instead of admiring them in notebooks
 
-**Python · LangChain · RAG Pipelines · FastAPI · Data Analytics**
+$ cat mission.txt
+build it. break it. debug it at 2am. deploy it anyway.
+```
+
+# Hey, I'm Amulya 👋
+### Full-stack AI tinkerer · RAG pipelines by day · debugging FAISS at midnight
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/amulya8)
@@ -15,28 +21,42 @@
 
 ---
 
-### 🧠 About Me
+### 🧬 About Me
 
-I'm a 2026 IT graduate who'd rather ship a working AI product than write another portfolio notebook. Every project below is **deployed and clickable** you can test the actual thing, not just read about it.
+```python
+class Amulya:
+    def __init__(self):
+        self.role = "IT Graduate, 2026"
+        self.based_in = "Hyderabad, India"
+        self.obsessed_with = ["LLM pipelines", "vector search", "why the bug is always the semicolon"]
+        self.currently_open_to = ["AI/ML Engineer", "Python Developer", "Data Analyst", "SDET / Testing"]
 
-I work across the full AI stack: LLM pipelines (LangChain + Groq), vector search (FAISS), backend APIs (FastAPI), and the data layer underneath it all (PostgreSQL, Power BI). Recently wrapped an SDE internship building production dashboards on real data.
+    def philosophy(self):
+        return "deployed > perfect. a live demo beats a clean notebook every single time."
+```
 
-🎯 **Currently open to:** AI/ML Engineer · Python Developer · Data Analyst roles
+I don't just prototype — I ship. Every project below is **live and clickable**, not a screenshot in a README. If it's broken, that's on production, and I've probably already found the bug before you did.
+
+Fresh off an SDE internship shipping real dashboards on real data — now hunting for the next thing to build (or break, professionally, in a test suite).
 
 ---
 
-### ⚡ Featured Builds
+### ⚡ Currently Shipping
 
-**[🎯 HireMatch AI](https://amulya8-hirematch-ai.hf.space)** — AI resume-to-JD matcher
-Extracts job requirements as structured JSON via LangChain + Groq (Llama 3.3 70B), then scores semantic fit with FAISS + sentence-transformers — no keyword matching. Debugged a nasty bug where match scores were silently returning 0% (missing FAISS vector normalization) before shipping.
+**[🎯 HireMatch AI](https://amulya8-hirematch-ai.hf.space)** — an AI that reads job descriptions so recruiters don't have to
+LangChain + Groq (Llama 3.3 70B) rip a JD apart into structured skill requirements, then FAISS + sentence-transformers score how well a resume actually fits — no dumb keyword matching. War story: shipped it, watched every match score come back **0%**, spent an evening convinced the model was broken. Turned out FAISS vectors just needed L2 normalization. One `faiss.normalize_L2()` later, it worked perfectly.
 `LangChain` `Groq` `FAISS` `Streamlit` `Docker` → **[Live Demo](https://amulya8-hirematch-ai.hf.space)** · **[Code](https://github.com/AmulyaK4/hirematch-ai)**
 
-**[📄 ResuméLens](https://resumelens-eta.vercel.app)** — AI resume analyzer
-Real-time ATS-compatibility scoring, section-by-section feedback, and missing-keyword detection. Built solo end-to-end on Next.js — solved LLMs' tendency to return unstructured free text by enforcing strict JSON-schema output with validation + re-prompting, trading a bit of phrasing variety for 100% reliable rendering. No resumes stored — everything processes in-memory.
+**[📄 ResuméLens](https://resumelens-eta.vercel.app)** — makes LLMs stop being poets and start being useful
+Real-time ATS scoring, section-by-section feedback, missing-keyword detection. Built solo, end-to-end, on Next.js. The real fight here wasn't the AI — it was forcing an LLM that *loves* to ramble into strict, parseable JSON every single time, via schema validation + re-prompting on malformed output. Zero resumes stored — everything lives in memory and vanishes the second the request ends.
 `Next.js` `LangChain` `Groq` → **[Live Demo](https://resumelens-eta.vercel.app)** · **[Code](https://github.com/AmulyaK4/ResumeLens)**
 
-**[📊 Zomato Analytics Dashboard](https://github.com/AmulyaK4/zomato-dashboard)** — Power BI + DAX
-Interactive dashboard over 9,000+ restaurant records surfacing cuisine trends by city, price-rating correlation, and underserved-area insights.
+**[👁️ InsightLense](https://github.com/AmulyaK4/InsightLense-Research-Document)** — a RAG bot that actually *looks* at your PDFs
+Every other RAG chatbot reads text and pretends the charts don't exist — which is exactly where the real numbers live. InsightLense uses Gemini Vision to interpret figures and diagrams, LlamaParse to keep tables structured instead of scrambled, and a hybrid FAISS + BM25 retriever underneath — so it nails both "what's the trend here?" and "what's the exact number in Figure 8?"
+`LangChain` `FAISS` `BM25` `Gemini Vision` `LlamaParse` `FastAPI` → **[Code](https://github.com/AmulyaK4/InsightLense-Research-Document)**
+
+**[📊 Zomato Analytics Dashboard](https://github.com/AmulyaK4/zomato-dashboard)** — 9,000+ restaurants, zero guesswork
+Power BI + DAX dig into cuisine trends by city, price-vs-rating correlation, and which neighborhoods are criminally underserved by good food.
 `Pandas` `Power BI` `DAX` → **[Code](https://github.com/AmulyaK4/zomato-dashboard)**
 
 <table>
@@ -44,14 +64,14 @@ Interactive dashboard over 9,000+ restaurant records surfacing cuisine trends by
 <td width="50%">
 
 **🔍 Crime Rate Prediction**
-Logistic regression model predicting crime risk by location from historical data.
+Logistic regression predicting risk by location from historical crime data.
 `Python` `scikit-learn` → [Code](https://github.com/AmulyaK4/Crime-Rate-Prediction)
 
 </td>
 <td width="50%">
 
 **📧 Email Spam Classifier**
-NLP-based spam/ham classifier with a Flask serving layer.
+NLP model separating spam from ham, served through Flask.
 `Python` `scikit-learn` `Flask` → [Code](https://github.com/AmulyaK4/E-mail-Spam-Classifier)
 
 </td>
@@ -60,19 +80,20 @@ NLP-based spam/ham classifier with a Flask serving layer.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ The Stack
 
-```text
-AI/ML        LangChain · Groq · FAISS · sentence-transformers · scikit-learn · XGBoost · Prompt Engineering
-Backend      Python · FastAPI · REST APIs · Docker · Streamlit
-Data         Pandas · NumPy · PostgreSQL · MySQL · Power BI · DAX · Metabase
-Languages    Python · SQL · JavaScript · Java · C
-Tools        Git · Postman · VS Code · Hugging Face Spaces
+```yaml
+ai_ml:      [LangChain, Groq, FAISS, sentence-transformers, scikit-learn, XGBoost, Prompt Engineering]
+backend:    [Python, FastAPI, REST APIs, Docker, Streamlit]
+data:       [Pandas, NumPy, PostgreSQL, MySQL, Power BI, DAX, Metabase]
+testing:    [Selenium, API Testing, Postman]
+languages:  [Python, SQL, JavaScript, Java, C]
+tools:      [Git, VS Code, Hugging Face Spaces]
 ```
 
 ---
 
-### 🏆 Certifications & Achievements
+### 🏆 Trophy Case
 
 | | |
 |---|---|
@@ -82,15 +103,18 @@ Tools        Git · Postman · VS Code · Hugging Face Spaces
 | 🥇 | HackerRank Gold Badge — Python & Problem Solving |
 | 🗣️ | Cambridge English C1 Advanced |
 
-- Selected from **29,443+ applicants** — Hack with Hyd, Microsoft Hackathon 2024
-- **Finalist**, Hack with Hyd 2025 (held at Microsoft office, conducted by Jack2Skill)
-- Smart India Hackathon (SIH) — proposed sustainability platform for plastic waste management
+- **29,443+ applicants** applied to Hack with Hyd (Microsoft Hackathon 2024) — I made the cut
+- **Finalist**, Hack with Hyd 2025 — held at the Microsoft office, run by Jack2Skill
+- Smart India Hackathon (SIH) — pitched a sustainability platform for plastic waste management
 
 ---
 
 <div align="center">
 
-📫 **amulyaakokkula@gmail.com** · Based in Hyderabad, India
+```
+$ echo "let's build something"
+📫 amulyaakokkula@gmail.com  ·  📍 Hyderabad, India
+```
 
 </div>
 
