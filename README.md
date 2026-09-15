@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-I'm a 2026 IT graduate who'd rather ship a working AI product than write another portfolio notebook. Every project below is **deployed and clickable** — you can test the actual thing, not just read about it.
+I'm a 2026 IT graduate who'd rather ship a working AI product than write another portfolio notebook. Every project below is **deployed and clickable** you can test the actual thing, not just read about it.
 
 I work across the full AI stack: LLM pipelines (LangChain + Groq), vector search (FAISS), backend APIs (FastAPI), and the data layer underneath it all (PostgreSQL, Power BI). Recently wrapped an SDE internship building production dashboards on real data.
 
