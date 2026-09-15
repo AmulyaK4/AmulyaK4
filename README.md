@@ -1,15 +1,9 @@
 <div align="center">
 
-```
-$ whoami
-Amulya — IT grad who ships AI systems instead of admiring them in notebooks
-
-$ cat mission.txt
-build it. break it. debug it at 2am. deploy it anyway.
-```
-
 # Hey, I'm Amulya 👋
 ### Full-stack AI tinkerer · RAG pipelines by day · debugging FAISS at midnight
+
+*I ship AI systems instead of admiring them in notebooks.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokkula-amulya-8176382a5/)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/amulya8)
@@ -101,10 +95,8 @@ tools:      [Git, VS Code, Hugging Face Spaces]
 
 <div align="center">
 
-```
-$ echo "let's build something"
+**Let's build something.**
 📫 amulyaakokkula@gmail.com  ·  📍 Hyderabad, India
-```
 
 </div>
 
