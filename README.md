@@ -23,21 +23,11 @@ build it. break it. debug it at 2am. deploy it anyway.
 
 ### 🧬 About Me
 
-```python
-class Amulya:
-    def __init__(self):
-        self.role = "IT Graduate, 2026"
-        self.based_in = "Hyderabad, India"
-        self.obsessed_with = ["LLM pipelines", "vector search", "why the bug is always the semicolon"]
-        self.currently_open_to = ["AI/ML Engineer", "Python Developer", "Data Analyst", "SDET / Testing"]
-
-    def philosophy(self):
-        return "deployed > perfect. a live demo beats a clean notebook every single time."
-```
-
-I don't just prototype — I ship. Every project below is **live and clickable**, not a screenshot in a README. If it's broken, that's on production, and I've probably already found the bug before you did.
+IT grad from Hyderabad who'd rather ship a working AI product than polish another notebook nobody runs. I work across the LLM stack end to end — RAG pipelines, vector search, backend APIs — and I don't stop at "it works on my machine." Every project below is **live and clickable**, not a screenshot. If it's broken, that's on production, and I've probably already found the bug before you did.
 
 Fresh off an SDE internship shipping real dashboards on real data — now hunting for the next thing to build (or break, professionally, in a test suite).
+
+🎯 **Currently open to:** AI/ML Engineer · Python Developer · Data Analyst · SDET / Testing roles
 
 ---
 
